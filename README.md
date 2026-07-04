@@ -53,7 +53,7 @@ htdocs/
 7. Open your browser:
 
 ```
-http://localhost/library-management-system-php/
+localhost/liabrary/
 ```
 
 ## Screens
