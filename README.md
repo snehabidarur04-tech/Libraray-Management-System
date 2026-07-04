@@ -1,10 +1,6 @@
 # Libraray-Management-System
-# Library Management System
-
 A simple Library Management System developed using PHP and MySQL.
-
 ## Features
-
 - Dashboard with library statistics
 - Book Management
 - User Management
@@ -14,7 +10,6 @@ A simple Library Management System developed using PHP and MySQL.
 - Responsive Bootstrap Interface
 
 ## Technologies Used
-
 - PHP
 - MySQL
 - HTML5
@@ -23,7 +18,6 @@ A simple Library Management System developed using PHP and MySQL.
 - Font Awesome
 
 ## Project Structure
-
 ```
 index.php
 books.php
@@ -35,7 +29,6 @@ database.sql
 ```
 
 ## Database Setup
-
 1. Install XAMPP or WAMP.
 2. Start Apache and MySQL.
 3. Open phpMyAdmin.
